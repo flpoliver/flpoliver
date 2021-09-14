@@ -1,4 +1,4 @@
-### Prazer! bem vindo ao incrível mundo de bob, digo Felipe 👋
+### Prazer! Felipe 👋
 
 
 - 👜 Trabalhando com design | front-end | personalização layouts shopify - freelance

@@ -1,8 +1,8 @@
 ### Prazer! Felipe 👋
 
 
-- 👜 Trabalhando com design | front-end | personalização layouts shopify - freelance
-- 📖 Estudando Typescript e UX
+- 👜 Trabalhando Com Front-End, ReactJS, React Native, NodeJs, React Testing Library, Jest +
+- 📖 Sempre estudando!
 - ⚓ Vivemos em tempos de mares turbulentos, e nós os devs, somos os marujos que guiaram o futuro deste navio. - by eu hahah
 
  <div>

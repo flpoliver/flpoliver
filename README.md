@@ -2,8 +2,6 @@
 
 
 - 👜 Trabalhando Com Front-End, ReactJS, React Native, NodeJs, React Testing Library, Jest +
-- 📖 Sempre estudando!
-- ⚓ Vivemos em tempos de mares turbulentos, e nós os devs, somos os marujos que guiaram o futuro deste navio. - by eu hahah
 
  <div>
   <a href="https://github.com/flpoliver">
